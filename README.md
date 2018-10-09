@@ -1,10 +1,11 @@
 # Internet_of_Things_Optimization
-This is the code for "Internet of Things Optimization" By Siraj Raval on Youtube
+This is the code for "Internet of Things Optimization"
 
 
 ## Overview
 
-This is the code for [this](https://youtu.be/kYWw6GBRjVk) video on Youtube by Siraj Raval as part of the reinforcement learning course Move 37 at [School of AI](http://www.theschool.ai). 
+This is the code from [this](https://youtu.be/kYWw6GBRjVk) video on Youtube by Siraj Raval as part of the reinforcement learning course Move 37 at [School of AI](http://www.theschool.ai). 
+[Siraj's github source code](https://github.com/llSourcell/Internet_of_Things_Optimization.git)
 
 ## Dependencies
 
